@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In Swan-Ally in the Minories, lives a doctor of great experience, (Who by Gods blessing) hath admirable success in the cure of all diseases incident to the bodies of men, women, and children.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24603</idno><idno type="EEBO-CITATION">99888630</idno>
+  <idno type="VID">195848</idno>
+  <idno type="EEBO-PROQUEST">2240903438</idno>
+  
+            <idno type="STC">Wing I122C</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[44]</idno>
+            <idno type="STC">ESTC R231342</idno>
+            <idno type="PROQUEST">ocm99888630</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888630e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195848)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In Swan-Ally in the Minories, lives a doctor of great experience, (Who by Gods blessing) hath admirable success in the cure of all diseases incident to the bodies of men, women, and children.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint information from Wing.</note>
+                  <note>At end of text: "His hours are from 8 in the morning to 4 in the afternoon. You may know the doctors house by the white pales before the door."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_a_doctor">
+            <pb facs="tcp:195848:1"/>
+            <pb facs="tcp:195848:1"/>
+            <head>In <hi>Swan-Ally</hi> in the MINORIES.</head>
+            <p>LIves a Doctor of great Experience, (who by Gods blessing) hath admirable success in the Cure of all Diseases incident to the bo<g ref="char:EOLhyphen"/>dies of Men, Women, and Children. He cureth all sorts of <hi>Agues</hi> in general, <hi>Feavers, Scurvy, Dropsie, Convulsion fits, Falling-sickness,</hi> he gives present ease in the <hi>Cholica Passio,</hi> or <hi>Griping of the Guts, Pains in the Stomack, the Spleen, Plurisie, Gravel, Stone,</hi> difficulty in <hi>making wa<g ref="char:EOLhyphen"/>ter, the fits of the Mother:</hi> He cureth all sorts of <hi>Coughs</hi> and <hi>Consumptions, Swounding, Fainting-fits, Worms. Rickets</hi> in Children. He giveth pre<g ref="char:EOLhyphen"/>sent ease to those that are troubled with the <hi>Gout</hi> (though never so bad) He cures the griping pain in the sides, <hi>Green-sickness in Virgins</hi> (though never so weak) <hi>Weakness in the back, Feebleness in the limbs in old Folks or Children.</hi> He cureth the <hi>Jaundies black and yellow, Rupture or Broken-bellied,</hi> without a Truss. If there be any Gentlewoman or others, that are troubled with any distempers in their <hi>Breasts,</hi> be they what they will, he hath a very rare way in curing of them in a very short time. He hath a very secret and safe way for curing the <hi>Morbus Gallicus,</hi> called the <hi>French POX,</hi> the <hi>Runing of the Reins,</hi> and all <hi>Venereal Di<g ref="char:EOLhyphen"/>stempers,</hi> without fluxing, so that a man shall not perceive it by his wife, nor the wife by the Husband, and none of their Relations shall take any notice of their distemper, to the admiration of the Patient. He cures all diseases that are curable, both internal and external: he will give his advice to all for nothing.</p>
+            <p>He is a person of that quality, that will not promise more than per<g ref="char:EOLunhyphen"/>form, he will undertake none, unless he can cure them.</p>
+            <p>If there be any poor people that are not able to go to the charge of being cured, he will cure them for nothing.</p>
+            <p>
+               <hi>Let none be afraid to come to him, because of the long continuance of their distemper, for he hath cured those that have been given over by other Doctors</hi>
+            </p>
+            <p>His hours are from 8 in the Morning to 4 in the Afternoon. You may know the Doctors house by the White pales before the door.</p>
+            <div type="part">
+               <pb facs="tcp:195848:2"/>
+               <head>Here followeth the names and dwelling places of some that have been Cured by Him.</head>
+               <p>TO you that ask where hath he cured any? I shall direct you to as many as this Bill will conveniently contain. He cured one Mr. <hi>Wells</hi> of a Dropsie, he is a Bel<g ref="char:EOLhyphen"/>lows maker by trade, and liveth in <hi>Black-Lion</hi> Court in <hi>Gravel- ane</hi> in <hi>Hounds-ditch,</hi> he was so bad, that all that saw him thought he would not live a day, all the parts of his body were so much swelled, that the like was never seen for any one to live, if you would have gave him never so much he could not sit up in his Bed his breath was so short, and he so much swelled, that he lay like one labouring for Life. He cured Mr. <hi>Farros</hi> a Scrivener in <hi>Black-Wall</hi> of the Griping of the Guts, he lay six weeks and none could give him ease. He cured Mr. <hi>Smith</hi> a Cole-meeter, and his Son in <hi>Black Jack</hi> Alley in <hi>East-smith-field,</hi> of a Consumption, Cough and Feaver, which brought them very low, that he did not expect them to live. He cured the daughter of Madam <hi>Strugle</hi> in <hi>Tuttle street Westminster</hi> of Convulsion-fits, she had them from the time she was born while she was fifteen years old, sometimes she would have four fits in a day, sometimes more, and sometimes less, he cured her in three weeks. He hath a Medicine that will never fail in old or young, let them be Con<g ref="char:EOLhyphen"/>vulsion fits, or fits of the Mother, or any Distemper caused by Vapours from the Spleen. He cured the Son of Mr. <hi>Dawson</hi> in St. <hi>Catherines-lane</hi> near <hi>Tower-hill,</hi> of a very high malignant Feaver, and griping in the Guts, they had been from Doctor t Doctor, and none could give him ease, while he came to him, and he gave him ease in a quarter of an hour, and setting him upon his Legs in 3 or 4 days. He cur<g ref="char:EOLhyphen"/>ed the Wife of Mr. <hi>Jones</hi> in <hi>Lime-house</hi> near <hi>London,</hi> of a pain in her Limbs which she had 5 years. He cured Mrs. <hi>Morris</hi> in <hi>Poplers,</hi> near the Pond, right over against the Green-man, which was in a very bad condition with the Scurvy, she had used so ma<g ref="char:EOLhyphen"/>ny Medicines, and spent so much Mony, that she began to despair of ever being cured. He cured the Daughter of Mr. <hi>Smith</hi> in <hi>King street Westminster</hi> of Fits of the Mother, she had sometimes 20 fits in a day in a very short time. He cured Mrs. <hi>Fardel</hi> of the Scurvy in <hi>Red-Cross-street.</hi> In <hi>Nightingale Lane</hi> in <hi>East-smith-field.</hi> He cured Mrs <hi>Clark</hi> of a very great Cough and shortness of Breath, she liveth in <hi>Leaden-Hall-street</hi> in <hi>Black-Raven</hi> Ally. He cured Mr. <hi>Sedown</hi> a Butcher in <hi>Harrow</hi> ally in <hi>White-Chapple</hi> of a stoppage in his Stomach, he cured his Wife of a very high Feaver, and lay distracted for some time, all that did see her did not expect she would live, he cured her in 3 or 4 days. He cured the Son of Mr. <hi>Sedown</hi> of a hective Feavor, and very much fal'n away with a Consumption, and often times taken with a violent Coughing, which was ready to strangle him. He cured Mr. <hi>Howlding</hi> and his Wife in <hi>Read-cross-street</hi> in <hi>East-smith-field,</hi> they lay both distracted with a very high Feaver at one time. He cured Mr. <hi>Bowshil</hi> and his Wife in the same street of a very high Feaver. He cured Mr. <hi>Bryan</hi> in the <hi>Grange-yard</hi> near <hi>Whitsters-yard</hi> in <hi>Southwark</hi> of a Consumption Cough. He cured the Wife of Mr. <hi>Edmunds</hi> in <hi>Whitesters-yard</hi> in <hi>Southwark</hi> of a Feaver, and stoppage at her Stomach. He cured the Son of Mr. <hi>Moon</hi> of Con<g ref="char:EOLhyphen"/>vulsion fits, he lived in <hi>Shaksby</hi>'s Walk in <hi>Shadwel,</hi> his Son was born with them in<g ref="char:EOLhyphen"/>to the World, and all his Children dyed of them, but this which he cured in a very short time. He cured Mrs. <hi>Rawlinson</hi> in <hi>Sun-yard</hi> in <hi>East-smith-field,</hi> of a great pain in her head, which she had been troubled with some years, and had been with ma<g ref="char:EOLhyphen"/>ny Doctors and could have no help while she came to him. He cured Mrs. <hi>Cook</hi> of the Scurvy and yellow Jaundies, she was so weak that she could not rise out of her bed, she liveth at the 3 Compasses in East-smith field. And many hundreds more that he could set Down if his Bill were larger. He hath a Book coming out which will give you an account at large, of many hundreds more that he hath cured in and about <hi>London.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
